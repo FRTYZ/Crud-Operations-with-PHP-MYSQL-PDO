@@ -12,26 +12,26 @@ In this project, I will present PHP MYSQL (PDO) and CRUD (Create, Read, Update, 
 * Listing Data
 - Applying Add, Edit, Delete Operations
 
-![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/ss/crud-homepage.png?raw=true)
+![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/img/crud-homepage.png?raw=true)
 
 ## add.php
 * Adding New Data
-![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/ss/crud-add.png?raw=true)
+![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/img/crud-add.png?raw=true)
 
 * Alert with SweatAlert
-![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/ss/crud-add-alert.png?raw=true)
+![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/img/crud-add-alert.png?raw=true)
 
 ## update.php
 * Updating Data
-![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/ss/crud-update.png?raw=true)
+![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/img/crud-update.png?raw=true)
 
 * Alert with SweatAlert
-![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/ss/crud-update-alert.png?raw=true)
+![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/img/crud-update-alert.png?raw=true)
 
 ## delete.php
 * Deletion of selected data
 * Alert with SweatAlert
-![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/ss/crud-delete.png?raw=true)
+![alt text](https://github.com/FRTYZ/Crud-Operations-with-PHP-MYSQL-PDO/blob/main/img/crud-delete.png?raw=true)
 
 ## Source Codes
 * Related explanations are in the source code
