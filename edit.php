@@ -34,13 +34,13 @@ $result = $query->fetch();//executing query and getting data
                         <script type="text/javascript" src="js/sweetalert.min.js"></script>
                         <?php
                    if ($_POST) { // We check if there is a post on the page.
-                 $title = $_POST['title']; // After the page is refreshed, we assign the posted values to the variables.
+                 $title = $_POST['title']; // After the page is refreshed, we assign the posted values to the variables
                   $content = $_POST['content']; 
                      $error = "";
 
     // We check if the data fields are empty. You can do it in other controls.
     
-    if ($title <> "" && $content <> "" && $error == "") { // Veri 
+    if ($title <> "" && $content <> "" && $error == "") {
         //Data to change
         $line = [
             'id' => $_GET['id'],            
