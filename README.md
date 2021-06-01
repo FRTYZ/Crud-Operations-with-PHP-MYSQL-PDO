@@ -301,7 +301,7 @@ $result = $query->fetch();//executing query and getting data
                             <script type="text/javascript" src="js/sweetalert.min.js"></script>
                             <?php
                    if ($_POST) { // We check if there is a post on the page.
-                 $title = $_POST['title']; // Sayfa yenilendikten sonra we are assigning the posted values to variables
+                 $title = $_POST['title']; // After the page is refreshed, we assign the posted values to the variables.
                  $content = $_POST['content']; 
                  $error = "";
 
