@@ -261,7 +261,7 @@ $result = $query->fetch();//executing query and getting data
 
     // We check if the data fields are empty. You can do it in other controls.
                  
-    if ($title <> "" && $content <> "" && $error == "") { // Veri 
+    if ($title <> "" && $content <> "" && $error == "") { //
         //Data to change
         $line = [
             'id' => $_GET['id'],            
