@@ -83,7 +83,7 @@ try {
                         <?php
                         include('fonc.php'); // We include our database in our index.php page
 
-                        $query = $connect->prepare('Select * from article'); // Veritabanındaki "Makale" tablosundaki tüm verileri çekiyoruz
+                        $query = $connect->prepare('Select * from article'); // We pull all the data from the "article" table in the database
 
                         $query->execute(); // We run our query
 
